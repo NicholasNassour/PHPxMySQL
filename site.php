@@ -19,7 +19,8 @@
     </style>
 </head>
 <body>
-
+    
+    <!-- Creating input fields to store in the database -->
     <form action = "test.php" method="POST">
         <input type="text" name="name" placeholder="Full Name"> <br>
         <input type="text" name="email" placeholder="E-mail"> <br>

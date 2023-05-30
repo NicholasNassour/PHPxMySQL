@@ -1,5 +1,6 @@
 <?php
 
+    #Adding credentials for the server to the MySQL database
     $servername = "localhost";
     $username = "root";
     $password = "";
